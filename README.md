@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 # The Day I Realized Manufacturing Security Was Broken
 
 The Open Source Solution I'm Testing
